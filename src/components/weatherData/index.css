@@ -1,0 +1,12 @@
+.weather-data {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+
+.weather-data h3 {
+    color: #ffffff;
+    padding-top: 10px;
+    margin: 10px;
+}
